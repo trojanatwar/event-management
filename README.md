@@ -49,3 +49,13 @@ For Linux
 ```
 
 
+
+# For testing
+
+### You can use test.py file to test the results. It will print response for every api request on command line. 
+
+or
+
+### Use Postman API testing 
+
+https://www.postman.com/
